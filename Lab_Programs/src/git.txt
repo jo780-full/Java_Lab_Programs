@@ -1,0 +1,55 @@
+Git Learning:
+->how to develope softwaare collab
+->remote repo
+->branch and maintain->create main repo
+->flexible env
+->version control
+->modify
+->record
+->revert
+->compare
+->facilities of branch and  merge
+->manages remote repo
+->files server secure
+*************************
+Centralised architecture
+retrieve ->changes->commit
+central server connection is necessary
+*****************
+What is Git
+Version Control
+Linus Torvalds->creator of linux
+******************************
+Config 
+--system level config
+git config -system
+--global level
+--git config global
+user.name
+user.email
+mkdir <dr-name>
+git init
+git status
+*********************
+working directory->staging area->local repository
+**********************
+working directory ->drop file (git add)->
+git commit local repository
+
+-m flag is opened
+modify->update->add->commit
+git log
+git log --oneliner
+(exe in one line)
+**************
+Tracking is the ability to identify changes between version of the swm file across various reposritories
+latest is head
+->head
+to ignore->gitignore
+
+-f flag
+
+
+
+
+
